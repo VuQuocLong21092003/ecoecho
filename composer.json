@@ -1,0 +1,19 @@
+{
+    "name": "iobp2024/ecoecho",
+    "authors": [
+        {
+            "name": "Nguyễn Duy Hiếu",
+            "email": "hieund1109@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "C:/Users/ADMIN/Desktop/ecoecho" 
+        }
+    }
+    
+}
+
+
